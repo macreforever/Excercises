@@ -1,0 +1,7 @@
+C:\Users\Miguel\source\repos\Pairs\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\Miguel\source\repos\Pairs\Pairs\bin\Debug\Pairs.exe
+C:\Users\Miguel\source\repos\Pairs\Pairs\bin\Debug\Pairs.pdb
+C:\Users\Miguel\source\repos\Pairs\Pairs\obj\Debug\Pairs.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Pairs\Pairs\obj\Debug\Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\Pairs\Pairs\obj\Debug\Pairs.exe
+C:\Users\Miguel\source\repos\Pairs\Pairs\obj\Debug\Pairs.pdb
